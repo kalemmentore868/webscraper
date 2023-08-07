@@ -1,0 +1,1214 @@
+[
+  {
+    "type": "hospital",
+    "name": "Hughes Medical Centre",
+    "address": "Lower South Hill Near, Cuisinart Hotel, 2640, Anguilla",
+    "latlng": [
+      18.187,
+      -63.115
+    ],
+    "contact": "(264) 497-3053",
+    "website": "hughesmedical.com",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Princess Alexandra Hospital",
+    "address": "Anguilla",
+    "latlng": [
+      18.22,
+      -63.05
+    ],
+    "contact": "(264) 497-2551",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Atlantic Star Center of Medical Excellence",
+    "address": "South Hill, Anguilla",
+    "latlng": [
+      18.194,
+      -63.09
+    ],
+    "contact": "(264) 729-9389",
+    "website": "atlanticstarmedical.com",
+    "hours": "08:30 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Mount St. John's Medical Centre",
+    "address": "Saint John´s",
+    "latlng": [
+      17.116,
+      -61.841
+    ],
+    "contact": "(268) 484-2700",
+    "website": "msjmc.org",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Adelin Medical Centre",
+    "address": "Fort Road, Saint John´s, Antigua and Barbuda",
+    "latlng": [
+      17.136,
+      -61.849
+    ],
+    "contact": "268 462 0866",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hanna Thomas Hospital",
+    "address": "Codrington, Antigua and Barbuda",
+    "latlng": [
+      17.629,
+      -61.831
+    ],
+    "contact": "+1 268-460-0076",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Belmont Health Care Center - Belmont Clinic",
+    "address": "35WJ+9R8, St John's, Antigua and Barbuda",
+    "latlng": [
+      17.096,
+      -61.82
+    ],
+    "contact": "(268) 562-1343",
+    "website": "belmontclinic.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Jubiliee Regional Medical Center Inc",
+    "address": "46C2+V3P, Osbourn, Antigua and Barbuda",
+    "latlng": [
+      17.122,
+      -61.802
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Ultra Medical Care",
+    "address": "St John's St, St John's, Antigua and Barbuda",
+    "latlng": [
+      17.125,
+      -61.848
+    ],
+    "contact": "(268) 462-6149",
+    "website": "Not Listed",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Gambles Medical Centre",
+    "address": "45H7+J97, Friars Hill Road, St John's, Antigua and Barbuda",
+    "latlng": [
+      17.129,
+      -61.839
+    ],
+    "contact": "(268) 562-7111",
+    "website": "Not Listed",
+    "hours": "08:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Barbuda Hospital",
+    "address": "J5HC+P94, Codrington, Antigua and Barbuda",
+    "latlng": [
+      17.629,
+      -61.831
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Clearview psychiatric hospital",
+    "address": "45CC+WX2, Piggotts, Antigua and Barbuda",
+    "latlng": [
+      17.122,
+      -61.83
+    ],
+    "contact": "(268) 462-0417",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Woods Urgent Care",
+    "address": "Woods Mall, St John's, Antigua and Barbuda",
+    "latlng": [
+      17.13,
+      -61.837
+    ],
+    "contact": "(268) 562-1160",
+    "website": "Not Listed",
+    "hours": "08:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "The Cancer Center Eastern Caribbean",
+    "address": "The Medical Pavilion, Queen Elizabeth's, 4596+7P9, Highway, Antigua, Antigua and Barbuda",
+    "latlng": [
+      17.118,
+      -61.84
+    ],
+    "contact": "(268) 460-6000",
+    "website": "Not Listed",
+    "hours": "08:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Antigua Medical Centre",
+    "address": "4548+MFV, American Road, St John's, Antigua and Barbuda",
+    "latlng": [
+      17.106,
+      -61.836
+    ],
+    "contact": "(268) 460-8646",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Cedar Grove Health Centre",
+    "address": "556M+H33, Unnamed Road, Cedar Grove, Antigua and Barbuda",
+    "latlng": [
+      17.161,
+      -61.819
+    ],
+    "contact": "(268) 462-1011",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "NSA Medical Surgical Rehab Centre",
+    "address": "gunthorps, Potters Village, Antigua and Barbuda",
+    "latlng": [
+      17.11,
+      -61.81
+    ],
+    "contact": "(268) 462-0631",
+    "website": "Not Listed",
+    "hours": "08:30 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Antigua Medical Centre - Jolly Harbour",
+    "address": "Unit 7, D block, Jolly Harbour Commercial Centre, Saint Marys, Antigua and Barbuda",
+    "latlng": [
+      17.065,
+      -61.885
+    ],
+    "contact": "(268) 734-4626",
+    "website": "jollymedicalclinic.com",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Infectious Disease Centre",
+    "address": "4589+G86, St John's, Antigua and Barbuda",
+    "latlng": [
+      17.116,
+      -61.834
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Winter's Medical Centre",
+    "address": "45M3+JM9, Fort Rd, St John's, Antigua and Barbuda",
+    "latlng": [
+      17.134,
+      -61.848
+    ],
+    "contact": "(268) 562-1977",
+    "website": "Not Listed",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Trinity Medical Services",
+    "address": "Caines Commercial Center Deanery Lane, St John's, Antigua and Barbuda",
+    "latlng": [
+      17.125,
+      -61.843
+    ],
+    "contact": "(268) 562-2221",
+    "website": "Not Listed",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Liberta Health Centre",
+    "address": "26P6+J6C, Liberta, Antigua and Barbuda",
+    "latlng": [
+      17.036,
+      -61.792
+    ],
+    "contact": "(268) 460-3175",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Mavis Cabral Medical Center",
+    "address": "3674+P39, All Saints, Antigua and Barbuda",
+    "latlng": [
+      17.064,
+      -61.797
+    ],
+    "contact": "(268) 784-8208",
+    "website": "Not Listed",
+    "hours": "06:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Horacio Oduber Hospital",
+    "address": "Dr. Horacio E. Oduber Boulevard #1, Oranjestad, Aruba",
+    "latlng": [
+      12.543,
+      -70.061
+    ],
+    "contact": "527 4000",
+    "website": "arubahospital.com",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Noord Medical Center (GMC General Medical Care N V)",
+    "address": "Caya Frans Figaroa 63, Noord, Aruba",
+    "latlng": [
+      12.567,
+      -70.034
+    ],
+    "contact": "586 0512",
+    "website": "Not Listed",
+    "hours": "08:00 - 12:0013:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Urgent Care Aruba (UCA) Noord Medical Center",
+    "address": "Noord 63, Noord Medical Center, Oranjestad, Aruba",
+    "latlng": [
+      12.567,
+      -70.034
+    ],
+    "contact": "586 0448",
+    "website": "urgentcare.aw",
+    "hours": "10:00 - 14:00"
+  },
+  {
+    "type": "hospital",
+    "name": "KNO Clinic",
+    "address": "Caya Dr. J.E.M. Arends 18B, Oranjestad, Aruba",
+    "latlng": [
+      12.542,
+      -70.059
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Hygienische Dienst",
+    "address": "GXCC+725, Dr. Oduberstraat, Oranjestad, Aruba",
+    "latlng": [
+      12.52,
+      -70.032
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Medcare Clinic Aruba",
+    "address": "L.G. Smith Boulevard 160, Oranjestad, Aruba",
+    "latlng": [
+      12.532,
+      -70.055
+    ],
+    "contact": "699 9441",
+    "website": "aeson-health.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Centro Medico Dr. Rudy Engelbrecht (IMSAN)",
+    "address": "10 Pastoor Hendrikstraat, San Nicolas, Aruba",
+    "latlng": [
+      12.439,
+      -69.918
+    ],
+    "contact": "+297 5841782",
+    "website": "www.imsan.aw",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Cas d Cuido Los Años Dorado",
+    "address": "Sabana Blanco 1, Oranjestad, Aruba",
+    "latlng": [
+      12.508,
+      -70.017
+    ],
+    "contact": "564 8625",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Maatschap Heart Clinic Aruba",
+    "address": "Caya Punta Brabo 5, Aruba",
+    "latlng": [
+      12.54,
+      -70.061
+    ],
+    "contact": "588 1100",
+    "website": "Not Listed",
+    "hours": "08:00 - 15:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Stichting Bloedbank Aruba",
+    "address": "GWVR+3RQ, Caya Punta Brabo, Noord, Aruba",
+    "latlng": [
+      12.542,
+      -70.06
+    ],
+    "contact": "587 0002",
+    "website": "bloedbankaruba.aw",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Centro Medico Familiar N.V.",
+    "address": "Avicennastraat 16, Oranjestad, Aruba",
+    "latlng": [
+      12.52,
+      -70.03
+    ],
+    "contact": "583 9119",
+    "website": "cemefaaruba.com",
+    "hours": "07:00 - 19:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Respaldo FSMA",
+    "address": "Dr. Horacio E. Oduber Hospital Boulevard #1, Oranjestad, Aruba",
+    "latlng": [
+      12.543,
+      -70.061
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Punta Brabo Diagnostics",
+    "address": "Caya Punta Brabo 11A, Eagle, Aruba",
+    "latlng": [
+      12.54,
+      -70.06
+    ],
+    "contact": "280 0448",
+    "website": "facebook.com/puntabrabo",
+    "hours": "08:00 - 20:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Pieterse Medical Center",
+    "address": "67-B Unit 1,, Oranjestad, Aruba",
+    "latlng": [
+      12.538,
+      -70.033
+    ],
+    "contact": "583 3330",
+    "website": "Not Listed",
+    "hours": "08:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Zuidstraat Huisartsen",
+    "address": "67-B Unit 1,, Oranjestad, Aruba",
+    "latlng": [
+      12.538,
+      -70.033
+    ],
+    "contact": "583 3330",
+    "website": "Not Listed",
+    "hours": "08:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Aaron Quiropractico",
+    "address": "Primavera 6-J, Oranjestad, Aruba",
+    "latlng": [
+      12.511,
+      -70.011
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Doctor Na Warda Aruba",
+    "address": "GWVR+4MW, Caya Punta Brabo, Oranjestad, Aruba",
+    "latlng": [
+      12.543,
+      -70.06
+    ],
+    "contact": "527 4580",
+    "website": "Not Listed",
+    "hours": "08:00 - 12:0017:30 - 22:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Physical Therapy & Rehab Clinic",
+    "address": "Caya Punta Brabo 7, Oranjestad, Aruba",
+    "latlng": [
+      12.54,
+      -70.061
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Princess Margaret Hospital",
+    "address": "610 University Ave, Toronto, Ontario, Canada",
+    "latlng": [
+      43.658,
+      -79.393
+    ],
+    "contact": "+1-416-946-2000",
+    "website": "www.theprincessmargaret.ca",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Doctors Hospital West",
+    "address": "461 W Huron St, Pontiac, United States",
+    "latlng": [
+      42.634,
+      -83.311
+    ],
+    "contact": "248-857-7200",
+    "website": "www.pontiacgeneral.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Centreville Medical Centre Ltd",
+    "address": "Sixth Ter, Nassau, Bahamas",
+    "latlng": [
+      25.066,
+      -77.338
+    ],
+    "contact": "+1 (242) 123 4567",
+    "website": "http://centrevillemedicalcentre.com/",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Lyford Cay Hospital",
+    "address": "Nassau",
+    "latlng": [
+      25.032,
+      -77.515
+    ],
+    "contact": "(242) 362-4400",
+    "website": "Not Listed",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Doctor's Hospital",
+    "address": "1 Collins Avenue, Nassau, Bahamas",
+    "latlng": [
+      25.075,
+      -77.335
+    ],
+    "contact": "(242) 302-4600",
+    "website": "doctorshosp.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Grosvenor Medical Center",
+    "address": "3MFG+C6J, Shirley St, Nassau, The Bahamas",
+    "latlng": [
+      25.073,
+      -77.327
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Seagrapes Medical Center",
+    "address": "2PP9+FMC, Nassau, The Bahamas",
+    "latlng": [
+      25.036,
+      -77.283
+    ],
+    "contact": "(242) 364-6487",
+    "website": "Not Listed",
+    "hours": "12:00 - 20:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Phoenix Medical Centre",
+    "address": "66 Dowdeswell St, Nassau, The Bahamas",
+    "latlng": [
+      25.075,
+      -77.332
+    ],
+    "contact": "(242) 325-1560",
+    "website": "Not Listed",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "The Medical Pavilion Bahamas",
+    "address": "72, 74 Collins Ave, Nassau, The Bahamas",
+    "latlng": [
+      25.066,
+      -77.338
+    ],
+    "contact": "(242) 356-6666",
+    "website": "tmp-bahamas.com",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Marsh Harbour Healthcare Centre (PCH)",
+    "address": "GWMH+GWG, Marsh Harbour, The Bahamas",
+    "latlng": [
+      26.534,
+      -77.072
+    ],
+    "contact": "(242) 367-2510",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Sunrise Medical Center Hospital Complex & The Urgent Care Center",
+    "address": "G887+J52, E Sunrise Hwy, Freeport, The Bahamas",
+    "latlng": [
+      26.516,
+      -78.689
+    ],
+    "contact": "(242) 373-3333",
+    "website": "Not Listed",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Oaktree Medical Center",
+    "address": "2 Fifth Terrace & Mount Royal Ave Nassau N.P, Nassau, The Bahamas",
+    "latlng": [
+      25.069,
+      -77.334
+    ],
+    "contact": "(242) 322-1145",
+    "website": "oaktreemedicalcenter.com",
+    "hours": "08:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Rand Memorial Hospital",
+    "address": "East Atlantic Dr, Freeport, Bahamas",
+    "latlng": [
+      26.533,
+      -78.695
+    ],
+    "contact": "12423526735",
+    "website": "bahamaslocal.com/showlisting/8046/Rand_Memorial_Hospital.html",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "kennedy medical center",
+    "address": "East Atlantic Dr, Freeport, Bahamas",
+    "latlng": [
+      26.533,
+      -78.695
+    ],
+    "contact": "12423526735",
+    "website": "bahamaslocal.com/showlisting/8046/Rand_Memorial_Hospital.html",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Adolescent Health Center",
+    "address": "3MF4+F4C, School Ln, Nassau, The Bahamas",
+    "latlng": [
+      25.073,
+      -77.347
+    ],
+    "contact": "(242) 328-3248",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "The Medical Pavilion",
+    "address": "72, 74 Collins Ave, Nassau, The Bahamas",
+    "latlng": [
+      25.066,
+      -77.338
+    ],
+    "contact": "(242) 356-6666",
+    "website": "tmp-bahamas.com",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Doctor's Hospital Luden Conference Room",
+    "address": "3MG8+9P3, Dowdeswell St, Nassau, The Bahamas",
+    "latlng": [
+      25.076,
+      -77.335
+    ],
+    "contact": "(242) 302-4700",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "The Medical And Dental Care Centre",
+    "address": "3J4P+Q69, Thompson Boulevard, Nassau, The Bahamas",
+    "latlng": [
+      25.057,
+      -77.366
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Lucayan Medical East",
+    "address": "G8FQ+98G, E Sunrise Hwy, Freeport, The Bahamas",
+    "latlng": [
+      26.523,
+      -78.664
+    ],
+    "contact": "(242) 373-7400",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Proposed National public Hospital",
+    "address": "3J2W+V52, Nassau, The Bahamas",
+    "latlng": [
+      25.052,
+      -77.357
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Queen Elizabeth Hospital Barbados",
+    "address": "Martindales Rd, Bridgetown, Barbados",
+    "latlng": [
+      13.095,
+      -59.609
+    ],
+    "contact": "(246) 436-6450",
+    "website": "qehconnect.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Bayview Hospital",
+    "address": "Martindales Rd, Bridgetown, Barbados",
+    "latlng": [
+      13.095,
+      -59.609
+    ],
+    "contact": "(246) 436-6450",
+    "website": "qehconnect.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Sandy Crest Medical Centre",
+    "address": "Bayville, St. Michael",
+    "latlng": [
+      13.088,
+      -59.61
+    ],
+    "contact": "(246) 436-5446",
+    "website": "bayviewhospital.com.bb",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Radnor Hospital",
+    "address": "39XX+PPJ, Bridgetown, Barbados",
+    "latlng": [
+      13.099,
+      -59.603
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Johnson Memorial Hospital",
+    "address": "One Welches Welches St Thomas, BB22025, Barbados",
+    "latlng": [
+      13.151,
+      -59.611
+    ],
+    "contact": "(848) 997-1044",
+    "website": "johnsonmemorialbarbados.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "MD Alliance Surgery & Birthing Centre",
+    "address": "35 Pine Rd, Bridgetown, Barbados",
+    "latlng": [
+      13.099,
+      -59.603
+    ],
+    "contact": "(246) 622-2424",
+    "website": "mdahospital.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Mayfield medical Centre",
+    "address": "39WX+34Q, 4th Ave, Bridgetown, Barbados",
+    "latlng": [
+      13.095,
+      -59.604
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "09:00 - 15:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Wellness Clinic",
+    "address": "39MR+PHR, Bridgetown, Barbados",
+    "latlng": [
+      13.084,
+      -59.611
+    ],
+    "contact": "537-1313",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "The Sparman Clinic",
+    "address": "4 6th Ave, Bridgetown, Barbados",
+    "latlng": [
+      13.097,
+      -59.604
+    ],
+    "contact": "(246) 624-3278",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Maurice Byer Clinic",
+    "address": "Sand Street, Speightstown, St. Peter, Barbados",
+    "latlng": [
+      13.253,
+      -59.641
+    ],
+    "contact": "(246) 536-3200",
+    "website": "Not Listed",
+    "hours": "08:30 - 19:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Maxwell Medical Clinic",
+    "address": "Hwy 7, Top Rock, Christ Church, Barbados",
+    "latlng": [
+      13.07,
+      -59.568
+    ],
+    "contact": "(246) 271-6320",
+    "website": "maxwellmed.as.me",
+    "hours": "09:00 - 13:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Pine Medical Centre",
+    "address": "39VX+X54, Bridgetown, Barbados",
+    "latlng": [
+      13.095,
+      -59.604
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Gordon Cummins District Hospital",
+    "address": "59PV+WW3, Rock Hall, Barbados",
+    "latlng": [
+      13.187,
+      -59.607
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Riverside Medical Clinic",
+    "address": "39WR+5G7, Bridgetown, Barbados",
+    "latlng": [
+      13.095,
+      -59.611
+    ],
+    "contact": "(246) 426-9415",
+    "website": "Not Listed",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Elcourt Clinic",
+    "address": "3C9M+WWF, Maxwell Main Rd, Oistins, Barbados",
+    "latlng": [
+      13.069,
+      -59.567
+    ],
+    "contact": "(246) 428-9452",
+    "website": "elcourtclinicbarbados.com",
+    "hours": "07:30 - 18:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Workmans Medical Center",
+    "address": "Harmony Cot, Workmans, Barbados",
+    "latlng": [
+      13.141,
+      -59.548
+    ],
+    "contact": "(246) 571-5307",
+    "website": "Not Listed",
+    "hours": "08:00 - 14:00"
+  },
+  {
+    "type": "hospital",
+    "name": "St. Lucy's District Hospital",
+    "address": "Hope, St. Lucy",
+    "latlng": [
+      13.323,
+      -59.604
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Total Care Medical Centre",
+    "address": "4CGH+54F, Salters, Barbados",
+    "latlng": [
+      13.125,
+      -59.574
+    ],
+    "contact": "(246) 546-3452",
+    "website": "Not Listed",
+    "hours": "07:00 - 11:30"
+  },
+  {
+    "type": "hospital",
+    "name": "Quality Care Medical Centre",
+    "address": "Sefton Lodge, Brittons Cross Road, Bridgetown, Barbados",
+    "latlng": [
+      13.092,
+      -59.601
+    ],
+    "contact": "(246) 228-0243",
+    "website": "qcmedicalcentre.com",
+    "hours": "07:00 - 17:30"
+  },
+  {
+    "type": "hospital",
+    "name": "Paynes Bay Medical Clinic",
+    "address": "Highway 1, Barbados",
+    "latlng": [
+      13.161,
+      -59.639
+    ],
+    "contact": "(246) 432-7751",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Buttonwood Bay Medical Center",
+    "address": "Buttonwood Bay Blvd, Belize City, Belize",
+    "latlng": [
+      17.513,
+      -88.213
+    ],
+    "contact": "223-1901",
+    "website": "Not Listed",
+    "hours": "08:00 - 19:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Belize Healthcare Partners",
+    "address": "Buttonwood Bay Blvd, Belize City, Belize",
+    "latlng": [
+      17.513,
+      -88.213
+    ],
+    "contact": "223-1901",
+    "website": "Not Listed",
+    "hours": "08:00 - 19:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Karl Heusner Memorial Hospital",
+    "address": "Blue Marlin Blvd, Belize City, Belize",
+    "latlng": [
+      17.512,
+      -88.206
+    ],
+    "contact": "280-5000",
+    "website": "belizehealthcare.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Belize Medical Associates",
+    "address": "Blue Marlin Blvd, Belize City, Belize",
+    "latlng": [
+      17.512,
+      -88.206
+    ],
+    "contact": "280-5000",
+    "website": "belizehealthcare.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "National Health Services",
+    "address": "St. Thomas St S, Belize City, Belize",
+    "latlng": [
+      17.51,
+      -88.196
+    ],
+    "contact": "(501) 223-0302",
+    "website": "http://www.belizemedical.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Sugar City Medical Center",
+    "address": "Orange Walk, Belize",
+    "latlng": [
+      18.067,
+      -88.571
+    ],
+    "contact": "665-7623",
+    "website": "facebook.com/Sugar-City-Medical-Center-110099150396301",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Belize Specialists Hospital / Gastroenterology & Endoscopy Center",
+    "address": "3671 Blue Marlin Ave, Belize City, Belize",
+    "latlng": [
+      17.512,
+      -88.206
+    ],
+    "contact": "223-4666",
+    "website": "belizegi.com",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Belize Integral Health Centre",
+    "address": "Corner of and Curassow Street, Gibnut St, Belize City, Belize",
+    "latlng": [
+      17.494,
+      -88.199
+    ],
+    "contact": "280-6722",
+    "website": "belizehealthcare.com/our-departments/integral-health-center",
+    "hours": "07:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Northern Regional Hospital",
+    "address": "Corner of and Curassow Street, Gibnut St, Belize City, Belize",
+    "latlng": [
+      17.494,
+      -88.199
+    ],
+    "contact": "280-6722",
+    "website": "belizehealthcare.com/our-departments/integral-health-center",
+    "hours": "07:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "St. Luke Hospital",
+    "address": "Holy Trinity Street, Orange Walk, Belize",
+    "latlng": [
+      18.094,
+      -88.565
+    ],
+    "contact": "322-2072",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "San Ignacio Hospital",
+    "address": "5W56+R92, Bullet Tree Road, San Ignacio, Belize",
+    "latlng": [
+      17.159,
+      -89.091
+    ],
+    "contact": "804-2761",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Belmopan Medical Centre",
+    "address": "5W56+R92, Bullet Tree Road, San Ignacio, Belize",
+    "latlng": [
+      17.159,
+      -89.091
+    ],
+    "contact": "804-2761",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Garden City Medical Center",
+    "address": "Garbutt Creek St Ext, Belmopan, Belize",
+    "latlng": [
+      17.244,
+      -88.778
+    ],
+    "contact": "822-3179",
+    "website": "Not Listed",
+    "hours": "08:00 - 18:00"
+  },
+  {
+    "type": "hospital",
+    "name": "St. Gabriel Medical Center",
+    "address": "5W4H+4GQ, San Ignacio, Belize",
+    "latlng": [
+      17.155,
+      -89.073
+    ],
+    "contact": "824-2566",
+    "website": "Not Listed",
+    "hours": "08:00 - 21:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Southern Belize Medical Clinic",
+    "address": "GHJP+QH4, Happy Avenue, Independence and Mango Creek, Belize",
+    "latlng": [
+      16.532,
+      -88.416
+    ],
+    "contact": "523-2460",
+    "website": "southernbelizemedicalclinic.netlify.app",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Northern Medical Specialist Plaza",
+    "address": "3CRM+JCJ, Orchid Dr, Orange Walk, Belize",
+    "latlng": [
+      18.091,
+      -88.569
+    ],
+    "contact": "302-3708",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Sugar city medical center",
+    "address": "Orange Walk, Belize",
+    "latlng": [
+      18.067,
+      -88.571
+    ],
+    "contact": "665-7623",
+    "website": "facebook.com/Sugar-City-Medical-Center-110099150396301",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Corozal Community Hospital",
+    "address": "Corozal, Belize",
+    "latlng": [
+      18.398,
+      -88.396
+    ],
+    "contact": "422-3909",
+    "website": "corozal.bz/392",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Port Layola Health Center",
+    "address": "FQQX+9XP, Fabers Rd, Belize City, Belize",
+    "latlng": [
+      17.488,
+      -88.202
+    ],
+    "contact": "227-5354",
+    "website": "Not Listed",
+    "hours": "07:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Punta Gorda Hospital",
+    "address": "George Price St, Punta Gorda, Belize",
+    "latlng": [
+      16.093,
+      -88.811
+    ],
+    "contact": "722-2145",
+    "website": "puntagordabelize.com/pg/medical.htm",
+    "hours": "00:00 - 00:00"
+  }
+]

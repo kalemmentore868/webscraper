@@ -1,0 +1,1214 @@
+[
+  {
+    "type": "hospital",
+    "name": "Punta Gorda Hospital",
+    "address": "George Price St, Punta Gorda, Belize",
+    "latlng": [
+      16.093,
+      -88.811
+    ],
+    "contact": "722-2145",
+    "website": "puntagordabelize.com/pg/medical.htm",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "King Edward VII Memorial Hospital",
+    "address": "7 Point Finger Rd, Paget DV 04, Bermuda",
+    "latlng": [
+      32.292,
+      -64.769
+    ],
+    "contact": "(441) 236-2345",
+    "website": "bermudahospitals.bm",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Point Finger Road Medical Center",
+    "address": "16 Point Finger Rd, PG 03, Bermuda",
+    "latlng": [
+      32.292,
+      -64.77
+    ],
+    "contact": "(441) 236-4094",
+    "website": "pfrmedicalcenter.com",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Lamb Foggo Urgent Care Centre",
+    "address": "1 Hall Street St George's, DD 03, Bermuda",
+    "latlng": [
+      32.368,
+      -64.68
+    ],
+    "contact": "(441) 298-7700",
+    "website": "bermudahospitals.bm",
+    "hours": "09:00 - 21:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Island Health Services",
+    "address": "13 Water Street St.George's, St.George's GE 05, Bermuda",
+    "latlng": [
+      32.381,
+      -64.68
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Executive Health Services",
+    "address": "Hamilton, Bermuda",
+    "latlng": [
+      32.295,
+      -64.782
+    ],
+    "contact": "(441) 292-5209",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Island Health Services Limited",
+    "address": "40 Point Finger Rd, DV 04, Bermuda",
+    "latlng": [
+      32.29,
+      -64.768
+    ],
+    "contact": "(441) 236-0084",
+    "website": "ihs.bm",
+    "hours": "08:00 - 19:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Bermuda Medical Specialties Group",
+    "address": "3 Reid Street, Hamilton, Bermuda",
+    "latlng": [
+      32.293,
+      -64.788
+    ],
+    "contact": "(441) 292-0022",
+    "website": "bermudamedical.com",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Bermuda HealthCare Services",
+    "address": "19 The Lane Paget Parish PG, 05, Bermuda",
+    "latlng": [
+      32.291,
+      -64.774
+    ],
+    "contact": "(441) 236-2810",
+    "website": "bhcs.bm",
+    "hours": "08:30 - 17:30"
+  },
+  {
+    "type": "hospital",
+    "name": "Mid-Atlantic Wellness Institute",
+    "address": "19 The Lane Paget Parish PG, 05, Bermuda",
+    "latlng": [
+      32.291,
+      -64.774
+    ],
+    "contact": "(441) 236-2810",
+    "website": "bhcs.bm",
+    "hours": "08:30 - 17:30"
+  },
+  {
+    "type": "hospital",
+    "name": "Premier Health and Wellness Center",
+    "address": "Devon Spring Rd, Devonshire Parish, Bermuda",
+    "latlng": [
+      32.306,
+      -64.748
+    ],
+    "contact": "(441) 236-3770",
+    "website": "bermudahospitals.bm",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "BMSG Health Express Urgent Care",
+    "address": "5 Reid Street Hamilton HM, Hamilton 11, Bermuda",
+    "latlng": [
+      32.293,
+      -64.788
+    ],
+    "contact": "(441) 292-0022",
+    "website": "bermudamedical.com/urgent-care#",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Emergency Unit, King Edward VII Memorial Hospital",
+    "address": "7 Point Finger Rd, DV 04, Bermuda",
+    "latlng": [
+      32.292,
+      -64.768
+    ],
+    "contact": "(441) 239-1359",
+    "website": "bermudahospitals.bm/contact-bhb/telephone-directory",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "HMC Burnaby Urgent Care & Medical Imaging (Formerly The Hamilton Medical Center Ltd)",
+    "address": "10-12 Burnaby St, Hamilton HM 11, Bermuda",
+    "latlng": [
+      32.293,
+      -64.786
+    ],
+    "contact": "(441) 400-8378",
+    "website": "hmc.bm",
+    "hours": "06:45 - 19:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Bermuda Life Center",
+    "address": "131 Front Street, 1st Floor City of Hamilton, Hamilton HM 12, Bermuda",
+    "latlng": [
+      32.293,
+      -64.781
+    ],
+    "contact": "(441) 436-3010",
+    "website": "bermuda-life-center.business.site",
+    "hours": "07:30 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Brown-Darrell Clinic",
+    "address": "129 South Road Warwick WK, 10, Bermuda",
+    "latlng": [
+      32.317,
+      -64.717
+    ],
+    "contact": "(441) 297-3333",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Department of Health Warwick Clinic",
+    "address": "Bermuda",
+    "latlng": [
+      32.266,
+      -64.808
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Hope Healthcare",
+    "address": "14 Woodbourne Ave, Hamilton, Bermuda",
+    "latlng": [
+      32.293,
+      -64.792
+    ],
+    "contact": "(441) 295-9105",
+    "website": "hopehealthcare.bm",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Bermuda Cancer and Health Centre",
+    "address": "46 Point Finger Rd, DV 04, Bermuda",
+    "latlng": [
+      32.289,
+      -64.767
+    ],
+    "contact": "(441) 236-1001",
+    "website": "chc.bm",
+    "hours": "07:30 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Department Of Health - Health Centre",
+    "address": "Victoria cor. Union Streets Hamilton HM, Hamilton 19, Bermuda",
+    "latlng": [
+      32.295,
+      -64.782
+    ],
+    "contact": "(441) 278-4900",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "The Pulmonology Specialists Ltd.",
+    "address": "Cumberland House, Wesley St, Hamilton 11, Bermuda",
+    "latlng": [
+      32.295,
+      -64.788
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "St. Eustatius Health Care Foundation",
+    "address": "H.M. Queen Beatrix rd 25 St. Eustatius, Oranjestad, Caribbean Netherlands",
+    "latlng": [
+      17.482,
+      -62.984
+    ],
+    "contact": "318 2211",
+    "website": "sehcf.org",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "giliandro's fashion Unisex",
+    "address": "H.M. Queen Beatrix weg 25 Oranjestad, Oranjestad, Caribbean Netherlands",
+    "latlng": [
+      17.482,
+      -62.984
+    ],
+    "contact": "318 6585",
+    "website": "sehcf.org",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Mental Health Caribbean",
+    "address": "Catherine Lespier Road 1, Oranjestad, Caribbean Netherlands",
+    "latlng": [
+      17.491,
+      -62.984
+    ],
+    "contact": "318 0099",
+    "website": "mentalhealthcaribbean.com",
+    "hours": "08:30 - 16:30"
+  },
+  {
+    "type": "hospital",
+    "name": "A.M. Edwards Medical Center",
+    "address": "JPGX+PG5, The Bottom, Caribbean Netherlands",
+    "latlng": [
+      17.626,
+      -63.253
+    ],
+    "contact": "416 3288",
+    "website": "sabahealthcare.org",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Peebles Hospital",
+    "address": "Main St, Road Town, British Virgin Islands",
+    "latlng": [
+      18.417,
+      -64.621
+    ],
+    "contact": "+1 284-494-3497",
+    "website": "http://www.bvihsa.vg/peebles-hospital-services/",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Advanced Medical Center",
+    "address": "Sir Francis Drake Highway Albion, Sea Cows Bay Tortola, VG1110, British Virgin Islands",
+    "latlng": [
+      18.412,
+      -64.633
+    ],
+    "contact": "(284) 441-5061",
+    "website": "amci.business.site",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Eureka Medical Clinic",
+    "address": "Road Town, British Virgin Islands",
+    "latlng": [
+      18.424,
+      -64.622
+    ],
+    "contact": "(284) 444-2346",
+    "website": "eurekamedicalclinic.com",
+    "hours": "08:00 - 18:00"
+  },
+  {
+    "type": "hospital",
+    "name": "The Bougainvillea Clinic Ltd.",
+    "address": "No.15, Abbott Road Tortola Road Town, Road Town VG1110, British Virgin Islands",
+    "latlng": [
+      18.42,
+      -64.621
+    ],
+    "contact": "(284) 444-2181",
+    "website": "bougainvilleaclinic.com",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Nurse Iris O’Neal Clinic",
+    "address": "CHW9+8M3, Unnamed Road, Spanish Town, British Virgin Islands",
+    "latlng": [
+      18.445,
+      -64.433
+    ],
+    "contact": "(284) 852-7700",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Apex Medical Center",
+    "address": "Millionaire Rd, Spanish Town, Virgin Gorda, British Virgin Islands",
+    "latlng": [
+      18.45,
+      -64.436
+    ],
+    "contact": "(284) 345-2620",
+    "website": "m.facebook.com/apexmedicalvg",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Penn Medical Center & Pharmacy",
+    "address": "Building, 1st Flr, Ste 104 Rodus Building Waterfront Drive Road Town, Road Town, British Virgin Islands",
+    "latlng": [
+      18.411,
+      -64.615
+    ],
+    "contact": "(284) 495-3288",
+    "website": "pennmedci.com",
+    "hours": "09:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Jost Van Dyke Clinic",
+    "address": "C6WX+98, Belle Vue, British Virgin Islands",
+    "latlng": [
+      18.446,
+      -64.754
+    ],
+    "contact": "(284) 346-1709",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "VI Medical Clinic",
+    "address": "Sir Francis Drake Hwy, British Virgin Islands",
+    "latlng": [
+      18.407,
+      -64.633
+    ],
+    "contact": "(284) 494-0971",
+    "website": "Not Listed",
+    "hours": "16:00 - 06:30"
+  },
+  {
+    "type": "hospital",
+    "name": "Health City Cayman Islands",
+    "address": "9 Forum Ln, Cayman Islands",
+    "latlng": [
+      19.321,
+      -81.38
+    ],
+    "contact": "(345) 640-4040",
+    "website": "healthcitycaymanislands.com",
+    "hours": "12:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "CTMH | Doctors Hospital",
+    "address": "16 Middle Rd, George Town KY1-1104, Cayman Islands",
+    "latlng": [
+      19.29,
+      -81.385
+    ],
+    "contact": "(345) 949-6066",
+    "website": "doctorshospitalcayman.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Cayman Islands Hospital / Health Services Authority",
+    "address": "95 Hospital Rd, George Town KY1-1103, Cayman Islands",
+    "latlng": [
+      19.289,
+      -81.382
+    ],
+    "contact": "(345) 949-8600",
+    "website": "hsa.ky",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Faith Hospital",
+    "address": "P58F+66F, Dennis Foster Rd, Stake Bay, Cayman Islands",
+    "latlng": [
+      19.715,
+      -79.829
+    ],
+    "contact": "(345) 948-2243",
+    "website": "hsa.ky/faith-hospital",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Smith Road Medical Centre",
+    "address": "Smith Rd, George Town, Cayman Islands",
+    "latlng": [
+      19.288,
+      -81.379
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Jesse Ritch Memorial Health Center",
+    "address": "7QM3+3RC, Bodden Town, Cayman Islands",
+    "latlng": [
+      19.282,
+      -81.248
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "North Side Health Centre",
+    "address": "925 North Side Rd, North Side, Cayman Islands",
+    "latlng": [
+      19.349,
+      -81.204
+    ],
+    "contact": "345-947-9525",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Medical Centre",
+    "address": "Strand Shopping Centre, West Bay Rd, SMB Grand Cayman KY1, 1205, Cayman Islands",
+    "latlng": [
+      19.331,
+      -81.382
+    ],
+    "contact": "(345) 945-7077",
+    "website": "caymandoctor.ky",
+    "hours": "08:30 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "East End Health Centre",
+    "address": "2367 Sea View Rd, East End, Cayman Islands",
+    "latlng": [
+      19.295,
+      -81.116
+    ],
+    "contact": "(345) 947-7440",
+    "website": "Not Listed",
+    "hours": "07:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Health City Cayman Islands Camana Bay Clinic",
+    "address": "9 Forum Ln, Cayman Islands",
+    "latlng": [
+      19.321,
+      -81.38
+    ],
+    "contact": "(345) 640-4040",
+    "website": "healthcitycaymanislands.com",
+    "hours": "12:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Total Health Clinic",
+    "address": "Total Health The Grand Pavilion Commercial Centre, 802, West Bay Road Grand Cayman KY1, 1209, Cayman Islands",
+    "latlng": [
+      19.329,
+      -81.383
+    ],
+    "contact": "(345) 333-2222",
+    "website": "totalhealth.ky",
+    "hours": "08:00 - 20:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Royale Medical and Wellness Center",
+    "address": "36 West Bay Road, BayTown Plaza, George Town Grand Cayman KY1, 1501, Cayman Islands",
+    "latlng": [
+      19.307,
+      -81.386
+    ],
+    "contact": "(345) 769-6230",
+    "website": "royalemedical.ky",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "HSA Urgent Care Walk-In Clinic",
+    "address": "95 Hospital Road George Town Grand Cayman, 95 Hospital Rd, George Town KY1-1103, Cayman Islands",
+    "latlng": [
+      19.289,
+      -81.383
+    ],
+    "contact": "(345) 949-8600",
+    "website": "hsa.ky/medical-services/urgent-care",
+    "hours": "08:00 - 23:00"
+  },
+  {
+    "type": "hospital",
+    "name": "TrinCay Medical Service & Urgent Care",
+    "address": "55 Market, 1204 Suite Jasmin Court Road Camana Bay Grand Cayman KY1, 1006, Cayman Islands",
+    "latlng": [
+      19.322,
+      -81.381
+    ],
+    "contact": "(345) 943-4633",
+    "website": "Not Listed",
+    "hours": "08:00 - 18:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Savannah Medical Clinic",
+    "address": "Hirst Rd, Savannah, George Town, Cayman Islands",
+    "latlng": [
+      19.272,
+      -81.3
+    ],
+    "contact": "345-749-6066",
+    "website": "https://www.doctorshospitalcayman.com/",
+    "hours": "09:00 - 19:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Doctors Express Urgent Care",
+    "address": "81 Godfrey Nixon Way George Town Grand Cayman KY KY1, 1107, 81 Godfrey Nixon Way, George Town, Cayman Islands",
+    "latlng": [
+      19.3,
+      -81.376
+    ],
+    "contact": "(345) 745-6000",
+    "website": "doctorsexpress.ky",
+    "hours": "09:00 - 21:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Oasis Medical Group",
+    "address": "Centennial Towers, W Bay Rd, West Bay, Cayman Islands",
+    "latlng": [
+      19.369,
+      -81.402
+    ],
+    "contact": "943-6066",
+    "website": "omgcayman.com",
+    "hours": "08:30 - 17:30"
+  },
+  {
+    "type": "hospital",
+    "name": "West Bay Nurses’ Health Centre",
+    "address": "9HHW+JFM, Reverend Blackman Rd, West Bay, Cayman Islands",
+    "latlng": [
+      19.379,
+      -81.406
+    ],
+    "contact": "(345) 949-3439",
+    "website": "Not Listed",
+    "hours": "08:30 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Little Cayman Clinic",
+    "address": "Spot Bay Rd, Cayman Islands",
+    "latlng": [
+      19.666,
+      -80.086
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Cayman Clinic",
+    "address": "439 Crewe Rd, George Town, Cayman Islands",
+    "latlng": [
+      19.289,
+      -81.364
+    ],
+    "contact": "(345) 949-7400",
+    "website": "caymanclinic.ky",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital Hermanos Ameijeiras",
+    "address": "Calle, # 701 San Lazaro, La Habana 10400, Cuba",
+    "latlng": [
+      23.139,
+      -82.373
+    ],
+    "contact": "(07) 8761210",
+    "website": "www.hospitalameijeiras.sld.cu",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "La Pradera International Health Center",
+    "address": "y 15, Calle 230, Matanzas, Cuba",
+    "latlng": [
+      23.056,
+      -81.566
+    ],
+    "contact": "(07) 2725273",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Servimed",
+    "address": "4HCP+CR4, Havana, Cuba",
+    "latlng": [
+      23.121,
+      -82.415
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Carlos J. Finlay Military Hospital",
+    "address": "3HJ9+J7R, Avenida 31, La Habana, Cuba",
+    "latlng": [
+      23.081,
+      -82.434
+    ],
+    "contact": "(07) 2743000",
+    "website": "Not Listed",
+    "hours": "08:30 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Clinica Internacional Cayo santa Maria",
+    "address": "Cayo Santa María, Cuba",
+    "latlng": [
+      22.653,
+      -79.054
+    ],
+    "contact": "(042) 350310",
+    "website": "cayosantamaria.info/health.html",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital Clínico Quirúrgico Calixto García",
+    "address": "4JM8+X3V, Havana, Cuba",
+    "latlng": [
+      23.135,
+      -82.387
+    ],
+    "contact": "(07) 8382138",
+    "website": "ecured.cu/Hospital_Universitario_General_Calixto_Garc%C3%ADa",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital William Soler",
+    "address": "3J65+X75, Aldabo, La Habana, Cuba",
+    "latlng": [
+      23.062,
+      -82.394
+    ],
+    "contact": "(07) 6443521",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital Mario Munoz Monroy",
+    "address": "P3GX+8MG, Colón, Cuba",
+    "latlng": [
+      22.725,
+      -80.903
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "CSMC",
+    "address": "5VC8+9M9, 5ta. Avenida, La Habana, Cuba",
+    "latlng": [
+      23.171,
+      -82.135
+    ],
+    "contact": "(07) 2090977",
+    "website": "smcsalud.cu",
+    "hours": "08:00 - 17:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital Materno Ramon Gonzalez Coro",
+    "address": "21 La Habana Plaza de la Revolución, La Habana, Cuba",
+    "latlng": [
+      23.13,
+      -82.4
+    ],
+    "contact": "(07) 8382613",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital Clínico Quirúrgico",
+    "address": "142 Principe, La Habana, Cuba",
+    "latlng": [
+      23.114,
+      -82.371
+    ],
+    "contact": "(07) 8762059",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital Universitario Vladímir Ilich Lenin",
+    "address": "No 2, Ave. Lenin, Holguín 80100, Cuba",
+    "latlng": [
+      20.888,
+      -76.271
+    ],
+    "contact": "(024) 462011",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Clinica Internacional Varadero",
+    "address": "60, 5Q32+J6H, Varadero, Cuba",
+    "latlng": [
+      23.154,
+      -81.252
+    ],
+    "contact": "(045) 667226",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Clínica Central Cira García",
+    "address": "Calle 20 NO. 4101 esq. a Av. 41 Miramar, La Habana, Cuba",
+    "latlng": [
+      23.118,
+      -82.416
+    ],
+    "contact": "(07) 2042811",
+    "website": "cirag.cu",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Policlínico de Especialidades",
+    "address": "4MFR+QQ2, Havana, Cuba",
+    "latlng": [
+      23.124,
+      -82.31
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital Naval",
+    "address": "La Habana, Cuba",
+    "latlng": [
+      23.153,
+      -82.335
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Pediatrico Centro Habana",
+    "address": "Benjumeda y, 4JGF+62J, Morales, La Habana, Cuba",
+    "latlng": [
+      23.125,
+      -82.38
+    ],
+    "contact": "(07) 8775552",
+    "website": "ecured.cu/Hospital_Pedi%C3%A1trico_de_Centro_Habana",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Havana Psychiatric Hospital",
+    "address": "2J62+VGF, Havana, Cuba",
+    "latlng": [
+      23.012,
+      -82.401
+    ],
+    "contact": "(07) 6468331",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Centro de Investigaciones Médicas Quirúrgicas (CIMEQ)",
+    "address": "3GJM+374, Havana, Cuba",
+    "latlng": [
+      23.08,
+      -82.469
+    ],
+    "contact": "(07) 8581000",
+    "website": "sld.cu/sitios/cimeq",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hogar Materno",
+    "address": "lamparilla y, 4MQ2+83W, Mercaderes, La Habana, Cuba",
+    "latlng": [
+      23.138,
+      -82.352
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Princess Margaret Hospital",
+    "address": "610 University Ave, Toronto, Ontario, Canada",
+    "latlng": [
+      43.658,
+      -79.393
+    ],
+    "contact": "+1-416-946-2000",
+    "website": "www.theprincessmargaret.ca",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Justin Fadipe Hospital",
+    "address": "CHF9+WF4, Cuba Rd, Mero, Dominica",
+    "latlng": [
+      15.424,
+      -61.433
+    ],
+    "contact": "(767) 449-6711",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Marigot Hospital",
+    "address": "GPR8+8RW, Dr Nicholas Liverpool Hwy, Marigot, Dominica",
+    "latlng": [
+      15.541,
+      -61.285
+    ],
+    "contact": "Not Listed",
+    "website": "housingdominica.com/projects/marigot-hospital",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "MDTH Medical Centre1",
+    "address": "8J38+4J2, River St, Roseau, Dominica",
+    "latlng": [
+      15.302,
+      -61.386
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Roseau Health Center",
+    "address": "8J28+3FV, Roseau, Dominica",
+    "latlng": [
+      15.3,
+      -61.386
+    ],
+    "contact": "(767) 266-3469",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "GrandBay Health District",
+    "address": "Unnamed Road, 6MVH+HRF, Berekua, Dominica",
+    "latlng": [
+      15.244,
+      -61.323
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Mahaut River Health Centre",
+    "address": "FPGX+G8X, Bataka, Dominica",
+    "latlng": [
+      15.476,
+      -61.254
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Portsmouth Hospital",
+    "address": "Pembroke St, Portsmouth, Dominica",
+    "latlng": [
+      15.579,
+      -61.455
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Mahaut Health Centre",
+    "address": "9J72+6QM, Mahaut, Dominica",
+    "latlng": [
+      15.363,
+      -61.4
+    ],
+    "contact": "(767) 266-4051",
+    "website": "Not Listed",
+    "hours": "08:00 - 15:00"
+  },
+  {
+    "type": "hospital",
+    "name": "MDTH Medical Centre3",
+    "address": "HG7W+CGJ, Ross Blvd, Portsmouth, Dominica",
+    "latlng": [
+      15.563,
+      -61.456
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Belles Health Clinic",
+    "address": "CMM9+VVP, Mero, Dominica",
+    "latlng": [
+      15.434,
+      -61.332
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Anse-De-Mai Health Center",
+    "address": "HJVC+727, Anse De Mai, Dominica",
+    "latlng": [
+      15.593,
+      -61.382
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "08:00 - 18:00"
+  },
+  {
+    "type": "hospital",
+    "name": "La Plaine Health Centre",
+    "address": "8QJ4+JPR, La Plaine, Dominica",
+    "latlng": [
+      15.331,
+      -61.245
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "MDTH Medical Centre5",
+    "address": "Worthington St, Dominica",
+    "latlng": [
+      15.367,
+      -61.258
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "MDTH Medical Centre2",
+    "address": "CH4H+6WC, Edward Oliver Leblanc Hwy, St Joseph, Dominica",
+    "latlng": [
+      15.405,
+      -61.422
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "A-Medic Urgent care",
+    "address": "23 Great Marlborough Street, Roseau, Dominica",
+    "latlng": [
+      15.299,
+      -61.389
+    ],
+    "contact": "(767) 612-1328",
+    "website": "Not Listed",
+    "hours": "08:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "MDTH Medical Centre4",
+    "address": "Wiers Rd, Dominica",
+    "latlng": [
+      15.544,
+      -61.295
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Castle Bruce Health Centre",
+    "address": "CPPR+48J, Castle Bruce, Dominica",
+    "latlng": [
+      15.435,
+      -61.261
+    ],
+    "contact": "(767) 266-4113",
+    "website": "Not Listed",
+    "hours": "08:00 - 16:00"
+  },
+  {
+    "type": "hospital",
+    "name": "RUSM Health Clinic",
+    "address": "RUSM Campus, Picard,, HG5R+32X, Portsmouth, Dominica",
+    "latlng": [
+      15.557,
+      -61.462
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Newtown Healthcare Center",
+    "address": "18 Victoria St, Roseau, Dominica",
+    "latlng": [
+      15.294,
+      -61.385
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "08:00 - 18:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital IMG en Punta Cana",
+    "address": "Carretera Higüey - Miches esq, Punta Cana 23000, Dominican Republic",
+    "latlng": [
+      18.663,
+      -68.432
+    ],
+    "contact": "(809) 285-6116",
+    "website": "www.img.hospital",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "International Medical Center TCMS",
+    "address": "Plaza Brisas de Bavaro 502 Punta Cana, Bavaro 23000, Dominican Republic",
+    "latlng": [
+      18.688,
+      -68.446
+    ],
+    "contact": "(809) 552-1117",
+    "website": "internationalmedicalcenter.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "International Medical Center TCMS",
+    "address": "Plaza Brisas de Bavaro 502 Punta Cana, Bavaro 23000, Dominican Republic",
+    "latlng": [
+      18.688,
+      -68.446
+    ],
+    "contact": "(809) 552-1117",
+    "website": "internationalmedicalcenter.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Centro Médico Punta Cana",
+    "address": "Avenida España, Bávaro, Dominican Republic",
+    "latlng": [
+      18.686,
+      -68.451
+    ],
+    "contact": "8095521506",
+    "website": "centromedicopuntacana.com",
+    "hours": "00:00 - 00:00"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital de Alta Complejidad y Medicina Avanzada HACMA MEDICAL CENTER",
+    "address": "31000, Dominican Republic",
+    "latlng": [
+      19.24,
+      -70.323
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "HS Medical Center",
+    "address": "31000, Dominican Republic",
+    "latlng": [
+      19.24,
+      -70.323
+    ],
+    "contact": "Not Listed",
+    "website": "Not Listed",
+    "hours": "Not Listed"
+  },
+  {
+    "type": "hospital",
+    "name": "Hospital Padre Billini",
+    "address": "Calle Florence Terry Griswuld, Ensanche Naco, Dominican Republic",
+    "latlng": [
+      18.473,
+      -69.929
+    ],
+    "contact": "8095621690",
+    "website": "https://www.hsmedicalcenter.com",
+    "hours": "07:30 - 22:00"
+  }
+]

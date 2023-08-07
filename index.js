@@ -1,6 +1,18 @@
 const puppeteer = require("puppeteer");
 const cheerio = require("cheerio");
 const fs = require("fs");
+const {
+  clickGotItBtn,
+  clickFilledSearchInput,
+  clearSearchInput,
+  typeSearchInput,
+  searchInputIsFilled,
+  getHospitalAddress,
+  getLatLng,
+  getPhone,
+  getWebsite,
+  getHours,
+} = require("./wazeFunctions");
 
 const caribbeanCountries = [
   "Anguilla",
@@ -103,87 +115,81 @@ async function scrapeWaze() {
     const page = await browser.newPage();
     await page.goto("https://www.waze.com/live-map");
 
-    for (let i = 0; i < 10; i++) {
-      const buttonSelector = "button.waze-tour-tooltip__acknowledge";
-      const buttonExists = await page.evaluate((selector) => {
-        const element = document.querySelector(selector);
-        return !!element; // Returns true if the element is found, false otherwise
-      }, buttonSelector);
+    await page.waitForTimeout(2000);
 
-      if (buttonExists) {
-        await page.click(buttonSelector);
-        console.log("Button clicked.");
-      }
+    for (let i = 301; i < hospitalNames.length; i++) {
+      await clickGotItBtn(page);
 
-      // Define the selector for the element
-      const elementSelector = "div.wm-search.has-value";
-
-      // Check if the element exists on the page
-      const elementExists = await page.evaluate((selector) => {
-        const element = document.querySelector(selector);
-        return !!element; // Returns true if the element is found, false otherwise
-      }, elementSelector);
-
-      // If the element exists, click it
-      if (elementExists) {
-        await page.click(elementSelector);
-        console.log("Clicked the element");
-        await page.waitForTimeout(2000);
-      }
+      await clickFilledSearchInput(page);
 
       const inputSelector =
         "div.wz-search-container.is-destination input.wm-search__input";
       let currentHospital = hospitalNames[i];
       // Wait for the input element to be visible
+
+      if (await searchInputIsFilled(page))
+        await clearSearchInput(inputSelector, page);
+
+      await typeSearchInput(inputSelector, page, currentHospital);
+
+      await page.keyboard.press("Enter");
+
+      // await page.waitForSelector("div.wz-livemap");
+
       await page.waitForTimeout(2000);
-
-      // Clear the input field
-      await page.evaluate((selector) => {
-        const inputElement = document.querySelector(selector);
-        inputElement.value = "";
-      }, inputSelector);
-
-      // Now you can interact with the input element
-      await page.type(inputSelector, currentHospital).then(async () => {
-        await page.waitForTimeout(2000);
-        await page.keyboard.press("Enter");
-      });
-
-      // Wait for a while to see the result (optional)
-      await page.waitForTimeout(2000);
-
-      await page.waitForSelector("div.wz-livemap");
 
       const type = "hospital";
       const name = currentHospital;
 
+      await clickGotItBtn(page);
+
       //const addressElement = page.locator("div.wm-poi-name-and-address__address")
-      const address = await page.evaluate(() => {
-        const addressElement = document.querySelector(
-          "div.wm-poi-name-and-address__address"
-        );
-        return addressElement.innerText;
-      });
+      const address = await getHospitalAddress(page);
 
-      const latlngElement = await page.evaluate(() => {
-        const latlngElement = document.querySelector(
-          ".wm-attribution-control__latlng span"
-        );
-        return latlngElement.innerText;
-      });
+      const latlng = await getLatLng(page);
 
-      const latlngArray = latlngElement.split("|");
-      const latlng = latlngArray.map((item) => {
-        return parseFloat(item.trim());
-      });
+      const contact = await getPhone(page);
 
-      
+      const website = await getWebsite(page);
 
-      const hospitalObj = { type, name, address, latlng };
+      const hours = await getHours(page);
+
+      const hospitalObj = {
+        type,
+        name,
+        address,
+        latlng,
+        contact,
+        website,
+        hours,
+      };
       allHospitalsObjs.push(hospitalObj);
 
-      console.log(allHospitalsObjs);
+      if (i % 100 === 0 && i !== 0 && i !== 100) {
+        const jsonData = JSON.stringify(allHospitalsObjs, null, 2);
+        const fileSavePath = `./allhospitalsObjs${i}.json`;
+
+        fs.writeFile(fileSavePath, jsonData, "utf8", (err) => {
+          if (err) {
+            console.error("Error writing JSON file:", err);
+          } else {
+            console.log("JSON file has been saved successfully!");
+          }
+        });
+      }
+      console.log(hospitalObj);
     }
+
+    const jsonData = JSON.stringify(allHospitalsObjs, null, 2);
+    const fileSavePath = "./allhospitalsObjs.json";
+
+    fs.writeFile(fileSavePath, jsonData, "utf8", (err) => {
+      if (err) {
+        console.error("Error writing JSON file:", err);
+      } else {
+        console.log("JSON file has been saved successfully!");
+      }
+    });
 
     await browser.close();
     console.log(allHospitalsObjs);
@@ -192,4 +198,22 @@ async function scrapeWaze() {
   }
 }
 
-scrapeWaze();
+//scrapeWaze();
+
+function joinfiles() {
+  const list1 = JSON.parse(fs.readFileSync("allhospitalsObjs100.json", "utf8"));
+  const list2 = JSON.parse(fs.readFileSync("allhospitalsObjs200.json", "utf8"));
+  const list3 = JSON.parse(fs.readFileSync("allhospitalsObjs300.json", "utf8"));
+  const list4 = JSON.parse(fs.readFileSync("allhospitalsObjs400.json", "utf8"));
+
+  const combinedList = [...list1, ...list2, ...list3, ...list4];
+
+  // Write the combined list to a new JSON file
+  fs.writeFileSync(
+    "combinedList.json",
+    JSON.stringify(combinedList, null, 2),
+    "utf8"
+  );
+}
+
+joinfiles();

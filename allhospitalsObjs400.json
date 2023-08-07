@@ -1,0 +1,14 @@
+[
+  {
+    "type": "hospital",
+    "name": "FirstPoint HealthCare",
+    "address": "Silver Street Head, Sheffield City Centre, Sheffield S1 2DD, UK",
+    "latlng": [
+      53.384,
+      -1.474
+    ],
+    "contact": "0114 309 4344",
+    "website": "firstpointhealthcare.com",
+    "hours": "08:30 - 17:30"
+  }
+]
